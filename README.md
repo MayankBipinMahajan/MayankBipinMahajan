@@ -98,6 +98,14 @@
 
 <br>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30" alt="Footer Banner">
 </p>
