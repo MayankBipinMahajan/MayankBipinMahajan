@@ -22,23 +22,8 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OSvxuEiVL0MQE5oA3rBWWxa27IgeWucc/view?usp=sharing)
 
 - ⚡ Fun fact **I am Ironman ! My loved one calls me Mayank**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-mahajan-7a5835296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-mahajan-7a5835296" height="30" width="40" /></a>
-<a href="https://instagram.com/m_hai_ham___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hai_ham___" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/m_hai_ham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m_hai_ham" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankmahajan291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankmahajan291" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbipinmahajan&show_icons=true&locale=en&layout=compact" alt="mayankbipinmahajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbipinmahajan&show_icons=true&locale=en" alt="mayankbipinmahajan" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankbipinmahajan" alt="mayankbipinmahajan" /></a> </p>
-
-<br>
+  
+---
 
 
 ---
@@ -80,13 +65,31 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
-    <img src="httpsS://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   </p>
 </div>
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mayank-mahajan-7a5835296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-mahajan-7a5835296" height="30" width="40" /></a>
+<a href="https://instagram.com/m_hai_ham___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hai_ham___" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/m_hai_ham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m_hai_ham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mayankmahajan291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankmahajan291" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbipinmahajan&show_icons=true&locale=en&layout=compact" alt="mayankbipinmahajan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbipinmahajan&show_icons=true&locale=en" alt="mayankbipinmahajan" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankbipinmahajan" alt="mayankbipinmahajan" /></a> </p>
+
+<br>
+
+
 
 <div id="github-stats" align="center">
   <h3 align="center">📊 My GitHub Stats</h3>
