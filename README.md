@@ -11,17 +11,17 @@
 
 - 👯 I’m looking to collaborate on **Backend/Microservices**
 
-- 🤝 I’m looking for help with **Hackthons,DSA , Compitions**
+- 🤝 I’m looking for help with **Hackthons ,DSA ,Compitions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MayankBipinMahajan](https://github.com/MayankBipinMahajan)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MayankBipinMahajan)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mayank-mahajan-7a5835296/](https://www.linkedin.com/in/mayank-mahajan-7a5835296/)
+- 📝 I regularly write articles on [Linkdin](https://www.linkedin.com/in/mayank-mahajan-7a5835296/)
 
 - 💬 Ask me about **Java , Spring Boot , DSA , Development**
 
 - 📫 How to reach me **mayankmahajan291@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OSvxuEiVL0MQE5oA3rBWWxa27IgeWucc/view?usp=sharing](https://drive.google.com/file/d/1OSvxuEiVL0MQE5oA3rBWWxa27IgeWucc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OSvxuEiVL0MQE5oA3rBWWxa27IgeWucc/view?usp=sharing)
 
 - ⚡ Fun fact **I am Ironman ! My loved one calls me Mayank**
 
