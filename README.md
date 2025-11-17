@@ -77,13 +77,6 @@
 <a href="https://www.leetcode.com/mayankmahajan291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankmahajan291" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbipinmahajan&show_icons=true&locale=en&layout=compact" alt="mayankbipinmahajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbipinmahajan&show_icons=true&locale=en" alt="mayankbipinmahajan" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankbipinmahajan" alt="mayankbipinmahajan" /></a> </p>
-
 <br>
 
 
