@@ -24,9 +24,6 @@
 - ⚡ Fun fact **I am Ironman ! My loved one calls me Mayank**
   
 ---
-
-
----
 <div id="tech-stack">
   <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="left">
