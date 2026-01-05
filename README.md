@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MayankBipinMahajan)
 
-- 📝 I regularly write articles on [Linkdin](https://www.linkedin.com/in/mayank-mahajan-7a5835296/)
+- 📝 I post my achievements on [Linkdin](https://www.linkedin.com/in/mayank-mahajan-7a5835296/)
 
 - 💬 Ask me about **Java , Spring Boot , DSA , Development**
 
-- 📫 How to reach me **mayankmahajan291@gmail.com**
+- 📫 How to reach me **Email :- mayankmahajan291@gmail.com OR Contact :- 9850519825**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OSvxuEiVL0MQE5oA3rBWWxa27IgeWucc/view?usp=sharing)
 
