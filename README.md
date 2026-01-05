@@ -84,9 +84,7 @@
 
 <div id="github-stats" align="center">
   <h3 align="center">📊 My GitHub Stats</h3>
-  <br>   
-  <br><br>
-  
+  <br>
   </div>
 
 <br>
