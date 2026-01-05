@@ -85,7 +85,6 @@
 <div id="github-stats" align="center">
   <h3 align="center">📊 My GitHub Stats</h3>
   <br>   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankBipinMahajan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages">
   <br><br>
   
   </div>
