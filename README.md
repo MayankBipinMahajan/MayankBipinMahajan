@@ -79,16 +79,11 @@
 </p>
 
 <br>
-
-
-
 <div id="github-stats" align="center">
   <h3 align="center">📊 My GitHub Stats</h3>
   <br>
   </div>
-
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MayankBipinMahajan/MayankBipinMahajan/output/snake.svg" alt="Snake Animation">
 </p>
